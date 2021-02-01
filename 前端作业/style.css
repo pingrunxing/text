@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f5f5f5;
+}
+.box {
+    width: 560px;
+    height: 360px;
+    background-color: #ffffff;
+    margin: 100px auto;
+    padding: 40px;
+}
+.box .header span {
+    padding-right:12px;
+}
+.log {
+    color: #747474;
+    text-decoration: none;
+}
+.log:hover {
+    color:#81d8fe;
+}
+.box-1 {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.box-2 {
+    margin-top:40px;
+}
+.box .input_text {
+    width: 515px;
+    height: 48px;
+    line-height: 50px;
+    color: #aaaaaa;
+    font-size: 16px;
+    border: 1px #d9d9d9 solid;
+}
+.box .password {
+    width: 515px;
+    height: 48px;
+    line-height: 50px;
+    color: #aaaaaa;
+    font-size: 16px;
+    border: 1px #d9d9d9 solid;
+}
+.box-3 {
+    font-size: 13px;
+    margin-top:40px;
+}
+.check {
+    margin-right: 12px ;
+    color: #707070;
+}
+.attention {
+    margin-left: 15px;
+    color: #bac5d8;
+}
+.measure {
+    color:#81d8fe;
+    text-decoration: none;
+    margin-left:100px;
+}
+.measure2 {
+    color:#81d8fe;
+    text-decoration: none;
+    margin-left: 15px;
+}
+.box-4 {
+    margin-top: 20px;
+}
+.sub-1  {
+    width: 232px;
+    height: 47px;
+    margin-right: 45px;
+    background-color:#ffffff;
+    font-size: 16px;
+    border: 1px #d9d9d9 solid
+}
+.sub-2  {
+    width: 232px;
+    height: 47px;
+    background-color:#ffffff;
+    font-size: 16px;
+    border: 1px #d9d9d9 solid
+}
+.sub-1:hover {
+    background-color: #81d8fe;
+    color: #ffffff;
+}
+.sub-2:hover {
+    background-color: #81d8fe;
+    color: #ffffff;
+}
+.box-5 {
+    margin-top:20px ;
+    font-size: 15px;
+    height: 50px;
+    color: #707070;
+    background-image: url(images\title.png);
+}
+.weibo {
+    color: #747474;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.qq {
+    color: #747474;
+    text-decoration: none;
+}
